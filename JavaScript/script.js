@@ -6,7 +6,7 @@ tl.from(".navbar",{
     stagger:2,
     delay:4
 })
-
+const apikey='6566fb1f365947f4ae80bca31d92a325';
 window.addEventListener('scroll', function() {
     var box1 = document.querySelector('.box1');
     var box2container = document.querySelector('.box2container');
